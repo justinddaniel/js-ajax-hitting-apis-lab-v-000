@@ -1,4 +1,4 @@
-//My Code: works but does not pass test specs due to specificity of tests. 
+//My Code: works but does not pass test specs due to specificity of tests.
 
 //function getRepositories () {
 //  var username = document.getElementById("username").value;
@@ -47,7 +47,7 @@
 //  document.getElementById("details").innerHTML = branchesList
 //}
 
-//Solution 
+//Solution
 
 const rootURL = "https://api.github.com"
 
